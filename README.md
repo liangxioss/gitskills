@@ -2,4 +2,4 @@
   I'm learing git 
   hello world
  learning git is happy
- you happy you go
+ you happy you do ang go
